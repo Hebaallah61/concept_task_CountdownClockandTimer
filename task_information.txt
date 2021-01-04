@@ -1,5 +1,5 @@
 idea title
-:Countdown Clock and Timer
+:Countdown Clock and Timer with GUI
 ----------------------------------------
 team members-- 
 الاسم: مى حماده السيد احمد
