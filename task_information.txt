@@ -1,0 +1,22 @@
+idea title
+:Countdown Clock and Timer
+----------------------------------------
+team members-- 
+ÇáÇÓã:ãì ÍãÇÏå ÇáÓíÏ ÇÍãÏ
+name:Mai Hamada Elsayed Ahmed
+id:20180635
+ÇáÇÓã:åÈÉ Çááå ÇÍãÏ ãÍãÏ ÚÈÏÇáÚÙíã
+name:Heba Allah Ahmed Mohamed Abd Elazem
+id:20180672
+ÇáÇÓã:äÏì ÎÇØÑ ÚÈÏå ÇÓãÇÚíá
+name:Nada Khater Abdu Ismail
+id:20180650
+ÇáÇÓã:ÚÈÏÇáÑÍãä ÓÇãì Úáì
+name:Abd Elrahman Samy Ali
+id:20170290
+ÇáÇÓã:ÍÓÇã ÍÓä ßãÇá ãÍãÏ
+name:Hosam Hasan Kamal Mohamed
+id:20180190
+------------------------------------------
+registration sheet, row number:43
+------------------------------------------
